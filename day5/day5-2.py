@@ -1,5 +1,4 @@
 #!/usr/local/bin/python3
-import re
 
 run_env = "prod"  # test or prod
 
